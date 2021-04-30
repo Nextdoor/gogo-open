@@ -21,7 +21,7 @@ pytest==3.2.3
 pytest-cov==2.5.1
 python-dateutil==2.6.1
 requests==2.21.0
-rsa==3.4.2
+rsa==4.7
 s3transfer==0.1.11
 six==1.10.0
 SQLAlchemy==1.1.14
